@@ -1,6 +1,3 @@
-Certainly! Below is a simple README file for your Flask proxy application:
-
----
 
 # Flask Proxy Server
 
